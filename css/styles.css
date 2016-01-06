@@ -1,12 +1,4 @@
 /**All CSS applied to intro class**/
-h2.intro {
+.intro {
   color: tomato;
-}
-
-p.intro {
-  color: burlywood;
-}
-
-img.intro {
-  width: 50%;
 }
